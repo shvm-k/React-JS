@@ -1,0 +1,20 @@
+section{
+    padding: 60px 0px;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.6s;
+}
+#back-text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position:relative;
+    top: -400px;
+}
+#back{
+    width: auto 1000px;
+    height: 700px;
+}
+#back img{
+    width: 100%;
+    height: 100%;
+}
