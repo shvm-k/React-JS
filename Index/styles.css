@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+    background-color: #000000;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #000000;
+  }
+  
+  .container-lg {
+    margin-top: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table, th, td {
+    border: 2px solid #000;
+  }
+  
+  th {
+    background-color: #000000;
+    color: #000000;
+    font-size: 18px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #ebebeb;
+  }
+  
+  .btn {
+    margin: 2px;
+  }

@@ -1,0 +1,41 @@
+/* ColorPicker.css */
+.color-picker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+  width: 750px;
+}
+
+.color-button {
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #77e97d;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.1s;
+}
+
+.color-button.selected-color-button {
+  background-color: transparent;
+  color: black;
+}
+
+.color-list {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.color-swatch {
+  width: 50px;
+  height: 50px;
+  border: black;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
