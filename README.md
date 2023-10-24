@@ -1,6 +1,6 @@
 # React-JS Applications
 #### INDEX FILE OF THIS REPO IS HOSTED [HERE](https://shvm-k.github.io/React-JS)
-##### Individual Applications Can Be Accessed By Clicking On Emojis Below ⬇️
+##### Individual applications can be accessed by clicking on emojis below ⬇️
 ##### WORD COUNTER - [📇](https://word-counter-shvm.netlify.app)
 ##### CALCULATOR - [🧮](https://calculator-shvm.netlify.app)
 ##### USER LISTING - [👥](https://user-list-shvm.netlify.app)
